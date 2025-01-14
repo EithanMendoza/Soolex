@@ -30,7 +30,7 @@ Los paneles solares representan una inversión significativa en energía limpia 
 ---
 
 ## **Cómo Contribuir**
-¡Estamos construyendo Soolex juntos! Si deseas contribuir:
+
 1. Haz un fork de este repositorio.
 2. Crea una rama nueva: `git checkout -b feature/nueva-funcionalidad`.
 3. Realiza tus cambios y escribe commits claros: `git commit -m "Añade nueva funcionalidad"`.
